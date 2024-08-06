@@ -1,0 +1,1 @@
+Resolver por um algoritmo de Busca Cega e um algoritmo com Heurística.
